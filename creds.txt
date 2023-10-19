@@ -1,2 +1,0 @@
-username: NA
-password: NA
